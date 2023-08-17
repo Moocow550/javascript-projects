@@ -10,3 +10,11 @@
    comments. */
 
    console.log("Comments make your code more readable by others.");
+
+   //Adding more comments here
+
+   console.log ("Look at all these words")
+
+   /* I have lots
+   of things to say about this
+   over three lines*/
